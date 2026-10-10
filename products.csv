@@ -1,0 +1,4 @@
+
+id,name,category,brand,price_inr,rating,features,specifications,best_for,available,product_url
+LAP001,Demo Laptop A,Laptop,DemoBrand,55000,4.4,"Python programming; multitasking","RAM: 16GB; Storage: 512GB SSD","Programming; Study",true,
+PHN001,Demo Phone A,Smartphone,DemoBrand,25000,4.2,"Photography; daily use","Storage: 128GB; Battery: 5000mAh","Photography; Everyday use",true,
